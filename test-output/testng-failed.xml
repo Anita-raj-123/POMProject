@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [MySuite]" verbose="5">
+  <test thread-count="5" name="Class1(failed)" verbose="5">
+    <classes>
+      <class name="TestNgClass.test.TNG1">
+        <methods>
+          <include name="Setup"/>
+          <include name="getTitle"/>
+          <include name="CloseSetup"/>
+          <include name="getTextOnCenterPage"/>
+        </methods>
+      </class> <!-- TestNgClass.test.TNG1 -->
+    </classes>
+  </test> <!-- Class1(failed) -->
+</suite> <!-- Failed suite [MySuite] -->

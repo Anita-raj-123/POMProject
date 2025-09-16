@@ -1,0 +1,8 @@
+<suite name="My_suite1">
+<test name= "Test1">
+<classes>
+<class name = "tng.test.class_tng1"/>
+<class name = "tng.test.class_tng2"/>
+</classes>
+</test>
+</suite>
